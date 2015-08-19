@@ -11,7 +11,10 @@ color: #db162f;
 font-family:'Condiment', cursive;
 font-size: 58px ;
 }
-
+linked{
+  font-size:48px;
+  color: #db162f;
+}
 nav a{
   color: #FFF;
   text-decoration: none;
