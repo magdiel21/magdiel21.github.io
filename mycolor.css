@@ -28,6 +28,10 @@ nav a:visited{
   
 section {
    background: -moz-linear-gradient(right, white, red, white);
+               -webkit-linear-gradient(right, white, red, white);
+               -ms-linear-gradient(right, white, red, white);
+               -o-linear-gradient(right, white, red, white);
+                linear-gradient(right, white, red, white);
   height: 250px;
   width: 100%;
 }
