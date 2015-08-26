@@ -28,3 +28,8 @@ nav a:visited{
 section {
   background: -moz-linear-gradient(right, white, red, white);
 }
+section a{
+  color: white;
+  border: 1px solid white;
+  padding: 10px;
+}
