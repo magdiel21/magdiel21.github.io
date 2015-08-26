@@ -27,6 +27,8 @@ nav a:visited{
 
 section {
   background: -moz-linear-gradient(right, white, red, white);
+  height: 250px;
+  width: 100%;
   
 }
 section a{
@@ -43,7 +45,7 @@ section {
 
 section a {
   width: 300px;
-  height: 100px;
+  height: 25px;
   padding: 20px;
 
   position: absolute;
