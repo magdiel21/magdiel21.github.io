@@ -25,5 +25,5 @@ nav a:visited{
 }
 
 section {
-  background-color: #DB162F;
+  background: -moz-linear-gradient(right, red, white);
 }
