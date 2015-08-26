@@ -5,6 +5,7 @@ font-family: 'Quicksand', sans-serif;
 text-align: center;
 background-image: url(https://static.pexels.com/photos/6675/flight-mountains-sky-flying.jpeg);
 background-size: cover;
+margin: 0px;
 }
 h1{
 color: #db162f;
