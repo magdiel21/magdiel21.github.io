@@ -33,5 +33,5 @@ section a{
   border: 1px solid white;
   padding: 10px;
   text-decoration: none;
-  margin-top: 5px;
+  text-transform: uppercase;
 }
