@@ -1,6 +1,6 @@
 .nav a {
-  color: #5a5a5a;
-  font-size: 11px;
+  color: #11F9C8;
+  font-size: 18px;
   font-weight: bold;
   padding: 14px 10px;
   text-transform: uppercase;
@@ -10,7 +10,7 @@
 }
 .jumbotron {
   background-image:url('http://www.eci.com/blog/images/3-13-14%20Miami%20Skyline.jpg');
-  height: 500px;
+  height: 800px;
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -19,8 +19,8 @@
   top:100px;
 }
 .jumbotron h1 {
-  color: #fff;
-  font-size: 48px;
+  color: #11F9C8;
+  font-size: 60px;
   font-family: 'Shift', sans-serif;
   font-weight: bold;
 }
@@ -37,15 +37,15 @@
   font-weight: bold;
 }
 .learn-more a {
-  color: #00b0ff;
+  color: #11F9C8;
 }
 .neighborhood-guides{
   background-color: #efefef;
   border-bottom: 1px solid #dbdbdb;
 }
 .neighborhood-guides h2{
-  color: #393c3d;
-  font-size: 24px;
+  color: #11F9C8;
+  font-size: 30px;
 }
 .neighborhood-guides p{
   font-size: 15px;
